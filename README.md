@@ -1,6 +1,8 @@
 # twisted_twine_workshoppe_app
-An app for an individual who is looking to have all knitting and crochet commission needs in one place.
+An app for an individual who is looking to have all (primarily) knitting and crochet commission needs in one place.
 ![ttc_homepage](https://github.com/AnastassiaA/twisted_twine_workshoppe_app/assets/35740953/6a10bd26-1652-46fc-9b8d-a5f32210c95b)
+
+
 (NB: the homepage was designed with my personal sensibilties in mind)
 
 Features and their current status include
@@ -13,6 +15,7 @@ Features and their current status include
   - Out |income you've taken for yourself| (in progress)
   - Wallet |money from income and personal capital that is left after expense and personal income is taken| (in progress) 
 - Timer |Although this is called a timer, it is technically a stopwatch for how long you spend creating personal projects or commissions| (in-progress)
+- Projects|Items you make for practice and advancing your skill but that arent for sale|
 - Commissions (in-progress)
 - Inventory lists for:
   - Yarn (fully implemented)
