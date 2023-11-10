@@ -7,7 +7,7 @@ An app for an individual who is looking to have all (primarily) knitting and cro
 
 Features and their current status include
 - Home Page containing:
-  - The nummber of pending commissions (in-progress)
+  - The number of pending commissions (in-progress)
   - The number of commission currently being worked on (in progress)
   - Total income |from commissions| (in progress)
   - Total expense |from commissions| (in progress)
