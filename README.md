@@ -21,12 +21,13 @@ Features and their current status include
 - Timer |Although this is called a timer, it is technically a stopwatch for how long you spend creating personal projects or commissions| (in-progress)
 - Projects |Items you make for practice and advancing your skill but that arent for sale| (in-progress)
   - With the capbility of attaching items from the inventory lists and the amounts that were used (in-progress)
-  - Row Counter (complete)
-    - https://github.com/AnastassiaA/twisted_twine_workshoppe_app/assets/35740953/a507564e-86b7-4851-8616-97198165a737
+  - Row Counter (in-progress)
 - Commissions (in-progress)
   - With the capbility of attaching items from the inventory lists and the amounts that were used (4/7 fully implemented)
-  - Row Counter (in-progress)
-   - 
+  -  Row Counter (complete)
+    ![Screenshot - Row Counter](https://github.com/AnastassiaA/twisted_twine_workshoppe_app/assets/35740953/569e68d2-8a0d-4f4d-bf72-6de53f582bae =250x250)
+
+    - https://github.com/AnastassiaA/twisted_twine_workshoppe_app/assets/35740953/a507564e-86b7-4851-8616-97198165a737
 - Inventory lists for:
   - Yarn (fully implemented)
   - Crochet Thread (fully implemented)
