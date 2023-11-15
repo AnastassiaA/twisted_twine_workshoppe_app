@@ -13,14 +13,20 @@ Features and their current status include
   - Total expense |from commissions| (in progress)
   - In |your personal capital that you've used for commissions| (in progress)
   - Out |income you've taken for yourself| (in progress)
+
+
+
+
   - Wallet |money from income and personal capital that is left after expense and personal income is taken| (in progress) 
 - Timer |Although this is called a timer, it is technically a stopwatch for how long you spend creating personal projects or commissions| (in-progress)
 - Projects |Items you make for practice and advancing your skill but that arent for sale| (in-progress)
   - With the capbility of attaching items from the inventory lists and the amounts that were used (in-progress)
   - Row Counter (complete)
+    - https://github.com/AnastassiaA/twisted_twine_workshoppe_app/assets/35740953/a507564e-86b7-4851-8616-97198165a737
 - Commissions (in-progress)
   - With the capbility of attaching items from the inventory lists and the amounts that were used (4/7 fully implemented)
   - Row Counter (in-progress)
+   - 
 - Inventory lists for:
   - Yarn (fully implemented)
   - Crochet Thread (fully implemented)
