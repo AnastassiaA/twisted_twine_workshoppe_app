@@ -17,7 +17,7 @@ Features and their current status include
 - Timer |Although this is called a timer, it is technically a stopwatch for how long you spend creating personal projects or commissions| (in-progress)
 - Projects |Items you make for practice and advancing your skill but that arent for sale| (in-progress)
   - With the capbility of attaching items from the inventory lists and the amounts that were used (in-progress)
-  - Row Counter (on hold)
+  - Row Counter (complete)
 - Commissions (in-progress)
   - With the capbility of attaching items from the inventory lists and the amounts that were used (4/7 fully implemented)
   - Row Counter (in-progress)
