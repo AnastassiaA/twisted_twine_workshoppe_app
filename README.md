@@ -1,5 +1,10 @@
+
+
+
 # twisted_twine_workshoppe_app
 An app for an individual who is looking to have all (primarily) knitting and crochet commission needs in one place.
+
+
 
 <img src = "https://github.com/AnastassiaA/twisted_twine_workshoppe_app/assets/35740953/6a10bd26-1652-46fc-9b8d-a5f32210c95b" width="400" height="790">
 
